@@ -1,0 +1,267 @@
+Author: Jimmy Li, #29903320, NetID: jli119
+Date: February 18, 2017
+Course: CSC172, Professor Ted Pawlicki
+Assignment: Output of Project1
+Title: OUTPUT.txt
+
+dhcp-10-5-131-93:Project1 Jimmy$ javac PlayMastermind.java
+dhcp-10-5-131-93:Project1 Jimmy$ java PlayMastermind
+
+WELCOME, CODEMAKER. MY NAME IS CODY THE CODEBREAKER. LET'S PLAY MASTERMIND.
+
+Please enter the number of colors you would like in your code (Minimum: 1, Maximum: 6): 1
+
+Please enter the number of positions you would like in your code (Minimum: 1, Maximum: 6): 1
+
+Please enter a color for POSITION NUMBER 1 of your code (Possible inputs: 'RED'): RED
+
+Your code: RED
+
+Cody's guess: RED
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 1
+White Pegs (Correct Color, Incorrect Position): 0
+
+Cody broke your code. Your code is: RED
+
+Would you like to play again? (Enter 'Y' for YES and 'N' for NO)
+Y
+
+WELCOME, CODEMAKER. MY NAME IS CODY THE CODEBREAKER. LET'S PLAY MASTERMIND.
+
+Please enter the number of colors you would like in your code (Minimum: 1, Maximum: 6): 2
+
+Please enter the number of positions you would like in your code (Minimum: 1, Maximum: 6): 2
+
+Please enter a color for POSITION NUMBER 1 of your code (Possible inputs: 'RED' & 'BLUE'): BLUE
+
+Please enter a color for POSITION NUMBER 2 of your code (Possible inputs: 'RED' & 'BLUE'): BLUE
+
+Your code: BLUE BLUE
+
+Cody's guess: RED RED
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 0
+White Pegs (Correct Color, Incorrect Position): 0
+
+
+Cody's guess: BLUE BLUE
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 2
+White Pegs (Correct Color, Incorrect Position): 0
+
+Cody broke your code. Your code is: BLUE BLUE
+
+Would you like to play again? (Enter 'Y' for YES and 'N' for NO)
+Y
+
+WELCOME, CODEMAKER. MY NAME IS CODY THE CODEBREAKER. LET'S PLAY MASTERMIND.
+
+Please enter the number of colors you would like in your code (Minimum: 1, Maximum: 6): 3
+
+Please enter the number of positions you would like in your code (Minimum: 1, Maximum: 6): 3
+
+Please enter a color for POSITION NUMBER 1 of your code (Possible inputs: 'RED', 'BLUE', & 'GREEN'): BLUE
+
+Please enter a color for POSITION NUMBER 2 of your code (Possible inputs: 'RED', 'BLUE', & 'GREEN'): GREEN
+
+Please enter a color for POSITION NUMBER 3 of your code (Possible inputs: 'RED', 'BLUE', & 'GREEN'): RED
+
+Your code: BLUE GREEN RED
+
+Cody's guess: RED RED RED
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 1
+White Pegs (Correct Color, Incorrect Position): 0
+
+
+Cody's guess: RED BLUE BLUE
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 0
+White Pegs (Correct Color, Incorrect Position): 2
+
+
+Cody's guess: BLUE RED GREEN
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 1
+White Pegs (Correct Color, Incorrect Position): 2
+
+
+Cody's guess: BLUE GREEN RED
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 3
+White Pegs (Correct Color, Incorrect Position): 0
+
+Cody broke your code. Your code is: BLUE GREEN RED
+
+Would you like to play again? (Enter 'Y' for YES and 'N' for NO)
+Y
+
+WELCOME, CODEMAKER. MY NAME IS CODY THE CODEBREAKER. LET'S PLAY MASTERMIND.
+
+Please enter the number of colors you would like in your code (Minimum: 1, Maximum: 6): 4
+
+Please enter the number of positions you would like in your code (Minimum: 1, Maximum: 6): 4
+
+Please enter a color for POSITION NUMBER 1 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', & 'YELLOW'): GREEN
+
+Please enter a color for POSITION NUMBER 2 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', & 'YELLOW'): YELLOW
+
+Please enter a color for POSITION NUMBER 3 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', & 'YELLOW'): RED
+
+Please enter a color for POSITION NUMBER 4 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', & 'YELLOW'): BLUE
+
+Your code: GREEN YELLOW RED BLUE
+
+Cody's guess: RED RED RED RED
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 1
+White Pegs (Correct Color, Incorrect Position): 0
+
+
+Cody's guess: RED BLUE BLUE BLUE
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 1
+White Pegs (Correct Color, Incorrect Position): 1
+
+
+Cody's guess: GREEN RED BLUE GREEN
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 1
+White Pegs (Correct Color, Incorrect Position): 2
+
+
+Cody's guess: GREEN YELLOW RED BLUE
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 4
+White Pegs (Correct Color, Incorrect Position): 0
+
+Cody broke your code. Your code is: GREEN YELLOW RED BLUE
+
+Would you like to play again? (Enter 'Y' for YES and 'N' for NO)
+Y
+
+WELCOME, CODEMAKER. MY NAME IS CODY THE CODEBREAKER. LET'S PLAY MASTERMIND.
+
+Please enter the number of colors you would like in your code (Minimum: 1, Maximum: 6): 5
+
+Please enter the number of positions you would like in your code (Minimum: 1, Maximum: 6): 5
+
+Please enter a color for POSITION NUMBER 1 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', 'YELLOW', & 'ORANGE'): YELLOW
+
+Please enter a color for POSITION NUMBER 2 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', 'YELLOW', & 'ORANGE'): ORANGE
+
+Please enter a color for POSITION NUMBER 3 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', 'YELLOW', & 'ORANGE'): YELLOW
+
+Please enter a color for POSITION NUMBER 4 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', 'YELLOW', & 'ORANGE'): ORANGE
+
+Please enter a color for POSITION NUMBER 5 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', 'YELLOW', & 'ORANGE'): YELLOW
+
+Your code: YELLOW ORANGE YELLOW ORANGE YELLOW
+
+Cody's guess: RED RED RED RED RED
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 0
+White Pegs (Correct Color, Incorrect Position): 0
+
+
+Cody's guess: BLUE BLUE BLUE BLUE BLUE
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 0
+White Pegs (Correct Color, Incorrect Position): 0
+
+
+Cody's guess: GREEN GREEN GREEN GREEN GREEN
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 0
+White Pegs (Correct Color, Incorrect Position): 0
+
+
+Cody's guess: YELLOW YELLOW YELLOW YELLOW YELLOW
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 3
+White Pegs (Correct Color, Incorrect Position): 0
+
+
+Cody's guess: YELLOW YELLOW YELLOW ORANGE ORANGE
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 3
+White Pegs (Correct Color, Incorrect Position): 2
+
+
+Cody's guess: YELLOW YELLOW ORANGE YELLOW ORANGE
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 1
+White Pegs (Correct Color, Incorrect Position): 4
+
+
+Cody's guess: YELLOW ORANGE YELLOW ORANGE YELLOW
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 5
+White Pegs (Correct Color, Incorrect Position): 0
+
+Cody broke your code. Your code is: YELLOW ORANGE YELLOW ORANGE YELLOW
+
+Would you like to play again? (Enter 'Y' for YES and 'N' for NO)
+Y
+
+WELCOME, CODEMAKER. MY NAME IS CODY THE CODEBREAKER. LET'S PLAY MASTERMIND.
+
+Please enter the number of colors you would like in your code (Minimum: 1, Maximum: 6): 6
+
+Please enter the number of positions you would like in your code (Minimum: 1, Maximum: 6): 6
+
+Please enter a color for POSITION NUMBER 1 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', 'YELLOW', 'ORANGE', 'PURPLE'): RED
+
+Please enter a color for POSITION NUMBER 2 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', 'YELLOW', 'ORANGE', 'PURPLE'): PURPLE
+
+Please enter a color for POSITION NUMBER 3 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', 'YELLOW', 'ORANGE', 'PURPLE'): RED
+
+Please enter a color for POSITION NUMBER 4 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', 'YELLOW', 'ORANGE', 'PURPLE'): BLUE
+
+Please enter a color for POSITION NUMBER 5 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', 'YELLOW', 'ORANGE', 'PURPLE'): GREEN
+
+Please enter a color for POSITION NUMBER 6 of your code (Possible inputs: 'RED', 'BLUE', 'GREEN', 'YELLOW', 'ORANGE', 'PURPLE'): GREEN
+
+Your code: RED PURPLE RED BLUE GREEN GREEN
+
+Cody's guess: RED RED RED RED RED RED
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 2
+White Pegs (Correct Color, Incorrect Position): 0
+
+
+Cody's guess: RED RED BLUE BLUE BLUE BLUE
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 2
+White Pegs (Correct Color, Incorrect Position): 1
+
+
+Cody's guess: RED GREEN RED BLUE GREEN GREEN
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 5
+White Pegs (Correct Color, Incorrect Position): 0
+
+
+Cody's guess: RED GREEN RED BLUE GREEN YELLOW
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 4
+White Pegs (Correct Color, Incorrect Position): 1
+
+
+Cody's guess: RED GREEN RED BLUE ORANGE GREEN
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 4
+White Pegs (Correct Color, Incorrect Position): 1
+
+
+Cody's guess: RED PURPLE RED BLUE GREEN GREEN
+YOUR RESPONSE:
+Black Pegs (Correct Color, Correct Position): 6
+White Pegs (Correct Color, Incorrect Position): 0
+
+Cody broke your code. Your code is: RED PURPLE RED BLUE GREEN GREEN
+
+Would you like to play again? (Enter 'Y' for YES and 'N' for NO)
+N
+dhcp-10-5-131-93:Project1 Jimmy$
